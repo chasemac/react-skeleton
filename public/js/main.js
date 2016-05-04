@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/chasemcelroy/Javascript/react-skeleton/src/main.jsx: Unexpected token (5:16) while parsing file: /Users/chasemcelroy/Javascript/react-skeleton/src/main.jsx");
