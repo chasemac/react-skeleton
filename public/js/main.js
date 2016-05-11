@@ -19636,6 +19636,8 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var LeadCapture = require('./components/LeadCapture.jsx');
 
-ReactDOM.render(React.createElement(LeadCapture, null), document.getElementById('leadCapture'));
+ReactDOM.render(React.createElement(LeadCapture, null), document.getElementById('leadCapture1'));
+ReactDOM.render(React.createElement(LeadCapture, null), document.getElementById('leadCapture2'));
+ReactDOM.render(React.createElement(LeadCapture, null), document.getElementById('leadCapture3'));
 
 },{"./components/LeadCapture.jsx":170,"react":167,"react-dom":2}]},{},[172]);
